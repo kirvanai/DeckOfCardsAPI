@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcLe3zhGc/c2gtMiyXdS8HFnkVZfMfMswAt+3nMqBNZ5S0qyXBg/FrGdXb0R+oNvTBdaz90CC/UL0Id+8jkQ6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kirva\\Documents\\Grand Circus\\HTML CSS\\DeckOfCardsAPI\\DeckOfCardsAPI\\DeckOfCardsAPI\\DeckOfCardsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirva\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\kirva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\kirva\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\kirva\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

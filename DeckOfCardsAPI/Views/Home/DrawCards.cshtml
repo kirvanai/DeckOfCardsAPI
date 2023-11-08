@@ -1,0 +1,10 @@
+﻿@model List<Card>
+
+    <div>
+    @foreach(Card card in @Model)
+    {
+        <p> @card.value </p>
+        <p> @card.suit  </p>
+        <img src ="@card.image"/>
+    }
+    </div>
